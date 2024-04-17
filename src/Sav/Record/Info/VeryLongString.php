@@ -9,7 +9,9 @@ class VeryLongString extends Info
 {
     const SUBTYPE   = 14;
     const DELIMITER = "\t";
-
+    
+    public $data = [];
+    
     public function read(Buffer $buffer)
     {
         parent::read($buffer);
