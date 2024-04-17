@@ -22,6 +22,7 @@ class InfoCollection
         Record\Info\CharacterEncoding::class,
         Record\Info\LongStringValueLabels::class,
         Record\Info\LongStringMissingValues::class,
+        Record\Info\MultipleResponseSets::class,
     ];
 
     /**
