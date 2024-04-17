@@ -1,6 +1,6 @@
 {
-  "name": "tiamo/spss",
-  "description": "SPSS is a php-based implementation of IBM SPSS Statistics Standard",
+  "name": "pbs/spss",
+  "description": "Fork of tiamo/spss by Korniienko Vladyslav (vk.tiamo@gmail.com)",
   "keywords": [
     "SPSS",
     "IBM",
@@ -17,8 +17,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Korniienko Vladyslav",
-      "email": "vk.tiamo@gmail.com"
+      "name": "Marian Kustusch",
+      "email": "marian.kustusch@bestresponse.pl"
     }
   ],
   "require": {
